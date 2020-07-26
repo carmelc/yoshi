@@ -5,5 +5,8 @@
   },
   "wait_for_archive_extraction": true,
   "bundle_tests": true,
-  "sled_folder_relative_path_in_repo": "sled"
+  "sled_folder_relative_path_in_repo": "sled",
+  "dependency_test_mapping": [{
+    "artifact_id": "wix-bolt"
+  }]
 }
